@@ -1,0 +1,1 @@
+{"name":"node-red-for-now","alias":"node-red-2018","env":{"NODE_RED_USERNAME":"@node-red-username","NODE_RED_PASSWORD":"@node-red-password","AWS_ACCESS_KEY_ID":"@aws-access-key-id","AWS_SECRET_ACCESS_KEY":"@aws-secret-access-key"},"files":["setup.js","settings.js","README.md"],"type":"npm","forwardNpm":false,"engines":{"node":"8.9.3"}}
